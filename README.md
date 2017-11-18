@@ -11,3 +11,5 @@ Usage:
 
 Option:
       -g black and white instead of colors
+
+WARNING: The code runs quite a while and produces a lot of output since the text is processed by latex
