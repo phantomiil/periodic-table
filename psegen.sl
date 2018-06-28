@@ -33,7 +33,7 @@ private define prepare (gray) {
     xfig_new_color("pse_alkali_metal", 0xd6b933);
     xfig_new_color("pse_alkaline_earth_metal", 0xc88b2e);
     xfig_new_color("pse_transition_metal", 0x1d47cb);
-    xfig_new_color("pse_post_transition_metal", 0x523deb);
+    xfig_new_color("pse_post_transition_metal", 0x724deb);
     xfig_new_color("pse_metalloid", 0xad1953);
     xfig_new_color("pse_nonmetal", 0xca2c38);
     xfig_new_color("pse_halogen", 0x5db961);
